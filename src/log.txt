@@ -1,0 +1,50 @@
+Property 'renderTemplate' does not exist on type 'typeof _'.script(2339)
+
+
+Error: Unknown node type in Marko template: _MarkoEmbed
+    at Object.print (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:4554:5720)
+    at D (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:13633)
+    at te (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:13124)
+    at Z (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:12932)
+    at i.call (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:10908)
+    at aQe (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:4549:7134)
+    at Object.print (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:4554:4894)
+    at D (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:13633)
+    at te (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:13124)
+    at Z (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:12932)
+    at c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:4554:2607
+    at i.each (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:11171)
+    at Object.print (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:4554:2248)
+    at D (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:13633)
+    at te (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:13124)
+    at Z (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:12932)
+    at c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:4554:3738
+    at i.each (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:11171)
+    at Object.print (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:4554:3358)
+    at D (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:13633)
+    at te (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:13124)
+    at Z (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:12932)
+    at c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:4554:3738
+    at i.each (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:11171)
+    at Object.print (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:4554:3358)
+    at D (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:13633)
+    at te (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:13124)
+    at Z (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:12932)
+    at c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:4554:769
+    at i.each (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:11171)
+    at Object.print (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:4554:549)
+    at D (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:13633)
+    at te (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:13124)
+    at Z (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:12932)
+    at i.call (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:10908)
+    at Object.print (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:4554:475)
+    at D (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:13633)
+    at te (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:13124)
+    at Z (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:12932)
+    at y (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:12833)
+    at te (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3781:17228)
+    at Ye (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3785:640)
+    at c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3894:8718
+    at Object.format (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:3894:8887)
+    at Object.iJn [as format] (c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:4555:390)
+    at async c:\Users\kauder\.vscode\extensions\marko-js.marko-vscode-1.1.9\dist\server.js:4572:2489
